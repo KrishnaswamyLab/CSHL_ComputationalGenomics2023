@@ -1,6 +1,8 @@
 # Cold Spring Harbor Course on Computational Genomics 
 ### November 29 - December 6 2023
 
+https://github.com/KrishnaswamyLab/CSHL_ComputationalGenomics2023
+
 Link to [CSHL Course Website](https://meetings.cshl.edu/archivescourse.aspx?course=C-ECG&year=23)  
 Link to [Slack channel help](http://krishnswamylab.org/get-help)
 
