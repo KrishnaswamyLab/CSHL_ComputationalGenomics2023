@@ -24,6 +24,6 @@ The data we will be working with is already pre-processed. To learn how to prepr
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
 |10:00       |[[Slides]](https://drive.google.com/file/d/1DUxYP8i8kgc5qCdZddWRYOkhCdXTOkfn/view?usp=sharing)  |Single-cell Analysis I-- PHATE/Multiscale PHATE/MELD|
-|11:00      |[[Colab]](https://colab.research.google.com/drive/16rqx7DuJ8Ok6T2rXwZt7pzUF5VwEfYCn?usp=drive_link) [[Answers]](https://colab.research.google.com/drive/1hyipqVAeeY_hf-Xzjanf_YHtD2ySA602?usp=drive_link)    |<b>Workshop</b> Single-cell analysis I|
+|11:00      |[[Colab](https://colab.research.google.com/drive/16rqx7DuJ8Ok6T2rXwZt7pzUF5VwEfYCn?usp=drive_link)] [[Answers](https://colab.research.google.com/drive/1hyipqVAeeY_hf-Xzjanf_YHtD2ySA602?usp=drive_link)]    |<b>Workshop</b> Single-cell analysis I|
 |14:30       |[Slides]   |Single-cell Analysis II-- MAGIC/Pseudotime/TrajectoryNet|
 |15:30       |[[Colab](https://colab.research.google.com/drive/1ElivBCgpvJ5nFCoBUXCrphKZ3esDE4I0)] [[Answers](https://colab.research.google.com/drive/1fbE7gT1TG4NWNVJglL_LVQCsvF-phw-o)]    |<b>Workshop</b> Single-cell analysis II|
